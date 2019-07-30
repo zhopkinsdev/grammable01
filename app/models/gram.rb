@@ -5,3 +5,6 @@ class Gram < ApplicationRecord
     mount_uploader :picture, PictureUploader
     belongs_to :user
 end
+
+
+#wait until error until slack issue is resolved, then do the aws install.
