@@ -71,6 +71,7 @@ gem 'bootstrap', '4.0.0.alpha6'
 gem 'simple_form'
 gem 'devise'
 gem 'carrierwave', '~> 1.0'
+gem 'popper_js'
 
 
 
