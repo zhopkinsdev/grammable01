@@ -56,6 +56,7 @@ group :test do
   gem 'selenium-webdriver'
   # Easy installation and use of chromedriver to run system tests with Chrome
   gem 'chromedriver-helper'
+  gem 'shoulda-matchers'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -72,6 +73,8 @@ gem 'simple_form'
 gem 'devise'
 gem 'carrierwave', '>= 2.0.0.rc', '< 3.0'
 gem 'popper_js'
+gem "figaro"
+gem "fog-aws"
 
 
 
