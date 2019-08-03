@@ -75,7 +75,8 @@ gem 'carrierwave', '>= 2.0.0.rc', '< 3.0'
 gem 'popper_js'
 gem "figaro"
 gem "fog-aws"
-
+gem 'jquery-ui-rails'
+gem 'font-awesome-rails'
 
 
 
