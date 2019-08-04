@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Slab:300i,400,600i&display=swap');
 
 body {
-  background-color: #fafafa;
+  background: image_url('photography.png');
   font-family: 'Josefin Slab', serif;
 }
 
@@ -75,6 +75,8 @@ input {
   font-size: 24px;
   color: white;
   margin-top: 10px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  border-color: #E8A317;
 }
 
 .input.boolean {
