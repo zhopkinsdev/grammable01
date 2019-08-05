@@ -77,7 +77,8 @@ gem "figaro"
 gem "fog-aws"
 gem 'jquery-ui-rails'
 gem 'font-awesome-rails'
-gem "mini_magick"
+gem 'mini_magick'
+
 
 
 
