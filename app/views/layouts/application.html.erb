@@ -1,6 +1,6 @@
 <script>
   $(function() {
-    alert('hi');
+    alert('Welcome to GSrammable!');
   });
 </script>
 
@@ -30,7 +30,7 @@
             <%= link_to "New Post", new_gram_path %>
             <i class="fa fa-plus-circle"></i>
             <%= link_to "Sign out", destroy_user_session_path, method: :delete %>
-            <i class="far fa-hand-peace"></i>
+            <i class="fa fa-hand-peace"></i>
           <% else %>
             <%= link_to "Sign In", new_user_session_path %>
             <%= link_to "Sign Up", new_user_registration_path %>
